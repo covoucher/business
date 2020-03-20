@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/covoucher/business/blob/master/logo/logo_small_icon.png">
+  <img src="https://github.com/covoucher/business/blob/master/logo/logo_small.png">
 </p>
 
 This is the repository for the business side of CoVoucher-20. For the technical
