@@ -2,13 +2,13 @@
   <img src="https://github.com/covoucher/business/blob/master/logo/logo_small.png">
 </p>
 
-This is the repository for the business side of CoVoucher-20. For the technical
+This is the repository for the business side of CoVoucher20. For the technical
 side, see [this repository](https://www.github.com/miguelmorin/covoucher).
 
 # A welcome word
 
 We truly believe that this pandemic is the fight of our lives. If you haven't
-yet, please visit [our website](www.covoucher-20.com).
+yet, please visit [our website](www.covoucher20.org).
 
 We are mitigating the economic effects of lockdowns to support local businesses
 and their livelihoods. From the example of the Great Depression, millions of
@@ -24,8 +24,8 @@ the measure is the increase in the company's balance sheet from the person's
 contribution, and an option pool for early employees. Generosity is our motto,
 just like our users. We are all in this together.
 
-In peace time, we may pivot to a mix between Groupon and AirBnB, where local
-businesses can fill their spare capacity.f
+In peace time, we may pivot towards helping local businesses fill their spare
+capacity.
 
 In the words of Kate Atkinson: when this pandemic passes, let it be said that
 the CoVoucher team rose to the challenge and we were not found wanting.
