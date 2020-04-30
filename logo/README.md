@@ -2,6 +2,8 @@
 
 # Design notes
 
+A dove flying is a symbol of travel, escape, and going places.
+
 A dove is a universal sign of hope and peace. It is also a reference to Noah's
 Ark: in biblical mythology, all beings had to spend 40 days in confinement and
 carried with them the survival of mankind; the dove was the bearer of good news,
