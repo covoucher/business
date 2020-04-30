@@ -16,16 +16,42 @@ people are at risk of losing their homes, and they need those homes to contain
 the virus. To avoid that, we believe that that software and the internet are our
 best weapon against the virus.
 
-We select the right people into our team by requiring initial volunteer work en
-route to part-time or full-time employment. CoVoucher is a do-ocracy: if you
-have an idea, do it; when we're motivated by love, we can never fail, we can
-only improve what already exists. We have share vesting for contributors, where
-the measure is the increase in the company's balance sheet from the person's
-contribution, and an option pool for early employees. Generosity is our motto,
-just like our users. We are all in this together.
-
 In peace time, we may pivot towards helping local businesses fill their spare
 capacity.
 
 In the words of Kate Atkinson: when this pandemic passes, let it be said that
 the CoVoucher team rose to the challenge and we were not found wanting.
+
+# Contributing
+
+We select the right people into our team by requiring initial volunteer work en
+route to part-time or full-time employment. CoVoucher is a do-ocracy: if you
+have an idea, do it; when we're motivated by love, we can never fail, we can
+only improve what already exists.
+
+If you want to join the cause with our own dedicated slack workspace, please
+message contact us at [our website](https://covoucher20.org/contact) including:
+- your CV
+- a track record of your portfolio
+- what is it, deep down, that motivates you
+- "proof of work": something concrete and tangible that improves CoVoucher20 in
+some way; this can be a change in the CSS code of our website, a typo we should
+fix, an idea for advertisement, etc.
+
+If you submit code, the following guidelines may be helpful:
+
+- include the date or the commit hash from which you are making changes so we
+  can do a "diff" and compute your changes
+- always use the latest version of the website or the source code, so we avoid
+  merging two branches of development
+- inspect our style and copy it, so your changes are 100% related to features
+  and we spend our code review entirely on your real contribution (we will not
+  review changes from tabs to spaces, for example)
+- we frown upon the use of front-end javascript, which we view as an
+  accessibility barrier and an attack vector; you may break this rule, of
+  course, if you are creative enough to make it worth considering and if you
+  keep "progressive enhancement", i.e. making sure that the website works well
+  without javascript.
+- include the "I assign the intellectual property of this contribution to
+  CoVoucher20.org and The CoVoucher Authors." so we are legally allowed to
+  integrate it into our code base.
