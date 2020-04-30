@@ -40,18 +40,22 @@ fix, an idea for advertisement, etc.
 
 If you submit code, the following guidelines may be helpful:
 
-- include the date or the commit hash from which you are making changes so we
-  can do a "diff" and compute your changes
-- always use the latest version of the website or the source code, so we avoid
-  merging two branches of development
-- inspect our style and copy it, so your changes are 100% related to features
+- We will assess the application by first looking at the result, and then
+  assessing the changes with a `git diff`, so include the date or the commit
+  hash from which you are making changes.
+- Keep your code DRY (Don't Repeat Yourself). Code is more often read than
+  written; while code is initially an asset, it quickly becomes a liability when
+  we need to maintain it.
+- Always use the latest version of the website or the source code, so we avoid
+  merging two branches of development.
+- Inspect our style and copy it, so your changes are 100% related to features
   and we spend our code review entirely on your real contribution (we will not
-  review changes from tabs to spaces, for example)
-- we frown upon the use of front-end javascript, which we view as an
+  review changes from tabs to spaces, for example).
+- We frown upon the use of front-end javascript, which we view as an
   accessibility barrier and an attack vector; you may break this rule, of
   course, if you are creative enough to make it worth considering and if you
   keep "progressive enhancement", i.e. making sure that the website works well
   without javascript.
-- include the "I assign the intellectual property of this contribution to
-  CoVoucher20.org and The CoVoucher Authors." so we are legally allowed to
+- Include the sentence "I assign the intellectual property of this contribution
+  to CoVoucher20.org and The CoVoucher Authors." so we are legally allowed to
   integrate it into our code base.
