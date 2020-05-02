@@ -25,29 +25,46 @@ the CoVoucher team rose to the challenge and we were not found wanting.
 # Contributing
 
 We select the right people into our team by requiring initial volunteer work en
-route to part-time or full-time employment. CoVoucher is a do-ocracy: if you
-have an idea, do it; when we're motivated by love, we can never fail, we can
-only improve what already exists.
+route to part-time or full-time employment. Employment is remote-only and will
+involve substantial freedom and autonomy, and thus require substantial
+initiative and creativity.
 
 If you want to join the cause with our own dedicated slack workspace, please
 message contact us at [our website](https://covoucher20.org/contact) including:
 - your CV
 - a track record of your portfolio
 - what is it, deep down, that motivates you
-- "proof of work": something concrete and tangible that improves CoVoucher20 in
-some way; this can be a change in the CSS code of our website, a typo we should
-fix, an idea for advertisement, etc.
+- "proof of work"
+
+Proof of work ability is the most important element: a hire takes 6 months on
+average---a luxury we don't have---so we decided on this proof of work is a
+taster for what the job will be like in the first few months, which gives
+candidates and us a measure of the fit. We don't require a definite amount of
+time; as guidance, 30 min is probably too little, and 6 hours is probably too
+much (for transparency, please keep track of time and include it in the
+application).
+
+We can't give specific directions on what we want for "proof of work" because
+usually conditions for startups evolve faster than the timelines for publishing
+job descriptions, and because the virus has pushed the speed of development and
+adaptation into overdrive. So we can only say what we expect in general terms:
+something concrete and tangible that improves CoVoucher20 in some way, such as a
+change in the CSS code of our website, a typo we should fix, an idea for
+advertisement, etc. If you can astonish us with the creativity or ingenuity of
+your contribution, you will do well.
 
 If you submit code, the following guidelines may be helpful:
 
 - We will assess the application by first looking at the result, and then
-  assessing the changes with a `git diff`, so include the date or the commit
-  hash from which you are making changes.
+  assessing the changes with a `git diff`, so include the date from which you
+  are making changes (or, if you have access to the source code from our repo,
+  the commit hash).
 - Keep your code DRY (Don't Repeat Yourself). Code is more often read than
   written; while code is initially an asset, it quickly becomes a liability when
   we need to maintain it.
-- Always use the latest version of the website or the source code, so we avoid
-  merging two branches of development.
+- Always use the latest version on the website, for example the CSS file from
+  our public server (or the source code if you have access to the our repo), so
+  we avoid merging two branches of development.
 - Inspect our style and copy it, so your changes are 100% related to features
   and we spend our code review entirely on your real contribution (we will not
   review changes from tabs to spaces, for example).
