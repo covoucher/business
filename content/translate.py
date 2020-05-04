@@ -97,6 +97,7 @@ def translate_content(language):
     print("Translated to %s" % language)
         
 if "__main__" == __name__:
+    assert False "deal with gobbling of spaces around sentences"
     #translate_content("pt-pt")
     #translate_content("fr-fr")
     translate_content("de-de")

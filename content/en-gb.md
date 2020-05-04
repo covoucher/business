@@ -277,7 +277,7 @@ Like what you see?
 ## likeText
 
 CoVoucher20 works for hotels in all euro-area countries, and for consumers all
-over the world. Registration is by invitation only.
+over the world. Registration for hotels and consumers is by invitation only.
 
 # 404
 

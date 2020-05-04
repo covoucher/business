@@ -1,53 +1,52 @@
-
 # general
 
 ## tagline
 
-A pandemia é temporária; viagem é para sempre.
+A pandemia é temporária; turismo é para sempre.
 
 ## secondaryTagline
 
-Damos-lhe uma garantia de reembolso de 100% --- especialmente quando ninguém vontade outra coisa!
+Damos-lhe 100% de garantia de reembolso --- mesmo quando mais ninguém dá!
 
 ## home
 
-Casa
+Início
 
 ## about
 
-Sobre
+Acerca
 
 ## science
 
-A ciência
+Ciência
 
 ## team
 
-Equipe
+Equipa
 
 ## faq
 
-Perguntas frequentes
+FAQ
 
 ## policies
 
-políticas
+Políticas
 
 ## contact
 
-Contate-Nos
+Contacto
 
 ## subscribe
 
-Se inscrever
+Subscrever
 
 ## request
 
-Solicitar acesso
+Inscrever
 
 ## email
 
-O email
+Email
 
 ## login
 
@@ -67,11 +66,11 @@ louise@example.com
 
 ## passwordLabel
 
-Senha
+Palavra-passe
 
 ## confirmPasswordLabel
 
-Confirme a Senha
+Confirme a palavra-passe
 
 ## requiredNotice
 
@@ -83,7 +82,7 @@ Continuar
 
 ## finishLabel
 
-registro de acabamento
+Finalizar
 
 ## organization
 
@@ -155,7 +154,10 @@ Os Autores CoVoucher, todos os direitos reservados.
 
 ## companyNotice
 
-CoVoucher, CoVoucher20 e CoVoucher20 são marcas comerciais da Covoucher Ltd, uma companhia limitada por ações e registrada na Inglaterra e País de Gales (12526044), e da felicidade genuína, Serviços Digitais Unipessoal Lda, uma companhia limitada por ações e registada em Portugal (515934151 ).
+CoVoucher, CoVoucher20 e CoVoucher20 são marcas comerciais da da Genuine
+Happiness, Serviços Digitais Unipessoal Lda, uma companhia limitada por ações e
+registada em Portugal (515934151), e da Covoucher Ltd, uma companhia limitada
+por ações e registrada na Inglaterra e País de Gales (12526044).
 
 ## policyStub
 
@@ -168,7 +170,7 @@ política.
 
 ## marketingStub
 
-Eu concordo em ser contactado ocasionalmente sobre iniciativas que CoVoucher20 considere relevante para mim (como marketing, projetos relacionados, e pesquisa acadêmica).
+Eu aceito ser contactado ocasionalmente sobre iniciativas que CoVoucher20 considere relevante para mim (como marketing, projetos relacionados, e pesquisa acadêmica).
 
 ## description
 
@@ -180,24 +182,25 @@ Trabalho
 
 ## jobPlaceholder
 
-Gerente do hotel, oficial de turismo, ...
+Gerente do hotel, chefe do posto de turismo, ...
 
 # home
 
 ## title
 
-Nós ajudamos turismo local através da pandemia
+Ajudamos o turismo local durante a pandemia
 
 ## subtitle
 
-CoVoucher20 é uma plataforma para os consumidores para férias plano e ajudar hotéis locais
-através da pandemia. Qualquer pessoa pode começar a planear as suas férias agora para escapar da
-confinamento, e nós mutualize o risco do negócio e garantir que um hotel será
-capaz de acomodar a sua estadia.
+CoVoucher20 é uma plataforma para os consumidores planearem as férias plano e
+para os hóteis locais sobreviverem durante a pandemia. Qualquer pessoa pode
+planear as suas férias agora para escapar da confinamento, e nós mutualizamos o
+risco de falência dos hóteis e garantimos que um hotel será capaz de lhe dar
+dormida para as suas férias.
 
 ## image1
 
-Feriados
+Férias
 
 ## image2
 
@@ -213,7 +216,7 @@ Comunidade
 
 ## image5
 
-Conexão
+Ligação
 
 ## image6
 
@@ -221,7 +224,7 @@ Travels
 
 ## image7
 
-escapades
+Escapadas
 
 ## image8
 
@@ -235,11 +238,11 @@ Uma palavra do fundador
 
 Olá!
 
-Meu nome é Miguel Morin e eu sou o fundador da CoVoucher20. quando os países
-começou o bloqueio para baixo, eu sabia que uma crise deste tamanho pode significar o fim de
-milhões de hotéis locais. Eu usei a minha experiência em desenvolvimento de software e
-minha recente paixão em empreendedorismo para lançar CoVoucher20 no registro
-Tempo.[Leia nossa história](/about#story).
+O meu nome é Miguel Morin e eu sou o fundador da CoVoucher20. Quando os países
+começaram o estado de emergência, eu sabia que uma crise deste tamanho podia significar o fim de
+milhões de hotéis locais. Usei a minha experiência em "software" e
+a minha recente paixão em empreendedorismo para lançar CoVoucher20 em tempo
+record. [Leia a nossa história](/about#story).
 
 ## howItWorks
 
@@ -247,37 +250,39 @@ Como funciona
 
 ## how1
 
-postos de turismo, organizações de gestão de destinos e hotéis locais descrevem
-sua oferta.
+Postos de turismo, organizações de gestão de destinos, e hotéis locais descrevem
+a sua oferta.
 
 ## how2
 
-Nós promover a região local em nosso site para os consumidores.
+Nós promovemos a região local na nossa página para os consumidores.
 
 ## how3
 
-Os consumidores pesquisar hotéis e comprar vouchers para utilização em viagens após a pandemia.
+Os consumidores pesquisam hotéis e compram vouchers para utilizarem depois da pandemia.
 
 ## how4
 
-Hotéis receber uma garantia do dinheiro imediatamente e são mais capazes de lidar.
+Os hotéis recebem uma garantia do dinheiro imediatamente e são mais capazes de sobreviver.
 
 ## howSave
 
-CoVoucher20 pode realmente salvar um hotel local?
+O CoVoucher20 pode realmente salvar um hotel local?
 
 ## howSaveText
 
-Esta é a nossa pergunta mais freqüente, de modo que dedicou grande parte da nossa[perguntas frequentes](/faq#save)para um exemplo com números e a economia da CoVoucher20.
+Esta é a nossa pergunta mais frequente, de modo que dedicámos uma grande parte
+das nossas [perguntas frequentes](/faq#save) a um exemplo com números e o modelo
+económico do CoVoucher20.
 
 ## like
 
-Gostou do que está vendo?
+Gosta do que vê?
 
 ## likeText
 
-CoVoucher20 trabalha para hotéis em todos os países da zona euro, e para os consumidores todos
-pelo mundo. O registro é apenas por convite.
+CoVoucher20 trabalha para hotéis em todos os países da zona euro, e para os
+consumidores em todo o mundo. O registo de hóteis e compra de vouchers é apenas por convite.
 
 # 404
 
@@ -289,23 +294,25 @@ página não encontrada
 
 ## mission
 
-Nossa missão
+A nossa missão
 
 ## mission1
 
-Nós nos comprometemos a ajuda hotéis locais sobreviver através da pandemia
+Nós comprometemo-nos a ajudar o turismo local a sobreviver durante a pandemia
 
 ## mission2
 
-Nós nos comprometemos a ajudar os consumidores a lidar com o isolamento e planejar as atividades agradáveis ​​após a crise
+Nós comprometemo-nos a ajudar os consumidores a lidar com o isolamento e a
+planear atividades agradáveis ​​para depois da crise
 
 ## mission3
 
-Nós nos comprometemos a permitir a pesquisa acadêmica e informar política económica e pública
+Nós comprometemo-nos a facilitar pesquisa acadêmica e informar políticas económicas e públicas
 
 ## mission4
 
-Comprometemo-nos a espalhar a esperança de que juntos vamos fazê-lo através
+Nós comprometemo-nos a espalhar a esperança de que juntos vamos conseguir
+atravessar a crise
 
 ## challenge
 
@@ -327,7 +334,7 @@ transações.
 
 ## vision
 
-Nossa visão
+A nossa visão
 
 ## visionText
 
@@ -335,7 +342,7 @@ Nós prevemos que os hotéis locais irão sobreviver através da pandemia e têm
 
 ## story
 
-Nossa história
+A nossa história
 
 ## storyText
 
@@ -345,11 +352,17 @@ Durante a Grande Depressão nos Estados Unidos, a incerteza em torno da economia
 
 Qualquer um pode comprar vouchers hoje para apoiar os seus hotéis locais, que por sua vez significa que a empresa pode pagar seus funcionários, que por sua vez pode continuar a pagar suas hipotecas e comprar o que eles precisam, apesar de ter sido isolado em casa e incapaz de trabalho. Estamos todos fazendo a nossa parte para diminuir a propagação do vírus - e agora há uma oportunidade para manter as empresas à tona. Nós podemos estar lá para eles hoje, então eles podem estar lá para nós amanhã.
 
-Somos uma equipe de pessoas apaixonadas e qualificados. Projeto Chumbo Miguel Morin estudou e trabalhou nas universidades de topo do mundo, com uma Ciência Licenciatura da Computação[Ecole Polytechnique](https://polytechnique.fr)(Paris), um PhD em economia na Grande Depressão de[Universidade Columbia](https://columbia.edu)(New York), um pós-doc em Economia pela[Universidade de Cambridge](https://www.cam.ac.uk)(UK), e um pós-doc em inteligência artificial na[O Instituto Turing Alan](https://turing.ac.uk).
+Somos uma equipe de pessoas apaixonadas e qualificados. Projeto Chumbo Miguel
+Morin estudou e trabalhou nas universidades de topo do mundo, com uma Ciência
+Licenciatura da Computação[Ecole
+Polytechnique](https://polytechnique.fr)(Paris), um PhD em economia na Grande
+Depressão da [Universidade de Columbia](https://columbia.edu) (Nova Iorque), um
+pós-doc em Economia da [Universidade de Cambridge](https://www.cam.ac.uk) (Reino
+Unido), e um pós-doc em inteligência artificial no [Instituto Alan Turing](https://turing.ac.uk).
 
 ## meetTeam
 
-Conheça toda a equipe
+Conheça toda a equipa
 
 # science
 
@@ -364,7 +377,9 @@ palavras de economistas, uma parada na velocidade em que circula o dinheiro pode
 severamente o consumo de impacto e renda. Um estudo de caso durante a Grande
 Depressão, onde o estado de Mississippi foi dividido na Reserva Federal
 Distritos de Atlanta e St. Louis, mostrou que a política para preservar a
-sistema bancário e o fluxo de dinheiro evitado uma queda de 32% no emprego. (Vejo[revista acadêmica](https://www.aeaweb.org/articles?id=10.1257/mac.5.1.81)ou[o projecto final](https://www.dropbox.com/s/mh7qtpm5xobxpip/mississippi_banks_AEJ_final.pdf?dl=0).)
+sistema bancário e o fluxo de dinheiro evitado uma queda de 32% no
+emprego. (Veja a [publicação
+académiica](https://www.aeaweb.org/articles?id=10.1257/mac.5.1.81) ou [o artigo final](https://www.dropbox.com/s/mh7qtpm5xobxpip/mississippi_banks_AEJ_final.pdf?dl=0).)
 
 ## psychology
 
@@ -372,10 +387,11 @@ Psicologia
 
 ## psychologyText
 
-Quando você ajudar os outros, você se sente melhor a si mesmo. A generosidade é um dom que continua
-a dar. Mesmo apenas pensando em ser generoso[faz as pessoas
-mais feliz](https://time.com/4857777/generosity-happiness-brain/). Vejo[um curto
-resumo](https://www.psychologytoday.com/us/blog/emotional-freedom/201112/the-benefits-generosity)ou[uma revisão abrangente pesquisa](https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-13-773).
+Quando ajuda os outros, você sente-se melhor. A generosidade é um dom que continua
+a dar. Mesmo apenas pensar em generosidade [faz as pessoas
+mais felizes](https://time.com/4857777/generosity-happiness-brain/). Veja [um curto
+resumo](https://www.psychologytoday.com/us/blog/emotional-freedom/201112/the-benefits-generosity)
+ou [uma revisão abrangente da pesquisa](https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-13-773).
 
 ## anthropology
 
@@ -383,7 +399,7 @@ Antropologia
 
 ## anthropologyText
 
-O dinheiro conceito imaginário chamamos pode ter impacto real e duradouro sobre a nossa
+O dinheiro é um conceito imaginário que pode ter impacto real e duradouro sobre a nossa
 vidas. Considere o experimento natural na Yap, uma pequena ilha no Pacífico
 que as pedras usadas como dinheiro. O mais valioso eram tão grandes que não puderam
 ser movidos e registros bancários foram mantidos na memória coletiva da tribo. No
@@ -391,49 +407,51 @@ ser movidos e registros bancários foram mantidos na memória coletiva da tribo.
 nativos para estradas construir. Alemanha decidiu pintar as pedras, que os ilhéus
 Acredita-se que torná-los inúteis, até estradas foram construídas. O fluxo de dinheiro
 parou e a comunidade foi tão afetado que eles construíram as estradas imediatamente,
-após o que a Alemanha retirou a pintura das pedras, ea vida voltou ao
-normal. (Vejo[artigo original](https://miltonfriedman.hoover.org/friedman_images/Collections/2016c21/Stanford_02_01_1991.pdf).)
+após o que a Alemanha retirou a pintura das pedras, e a vida voltou ao
+normal. (Veja o [artigo original](https://miltonfriedman.hoover.org/friedman_images/Collections/2016c21/Stanford_02_01_1991.pdf).)
 
-Com CoVoucher20, podemos manter o dinheiro circulando, apoiar a subsistência de
-nossos vizinhos e comunidades locais de construção mais resistentes e conectado.
+Com o CoVoucher20, podemos manter o dinheiro circulando, apoiar a subsistência dos
+nossos vizinhos e comunidades locais mais resistentes e ligagas.
 
 # team
 
 ## miguel
 
-Miguel Morin é um empreendedor social de série com um fundo no computador
-ciências (BS da Ecole Polytechnique, Paris; engenheiro de software da[o Alan
-Instituto Turing](https://www.turing.ac.uk/)) E economia ([PhD da Columbia
-Universidade, New York](https://econ.columbia.edu/phd/placement/); pós-doc no[da Universidade de Cambridge,
-Reino Unido](https://www.ineteconomics.org/research/experts/mmorin)). Dele[doutoral
-dissertação](http://www.columbia.edu/~mm3509/)incidiu sobre o desemprego ea
-Grande Depressão. Ele já lançou[Puzzli](https://puzzli.org/), uma
-patente pendente "inteligente brinquedo" para crianças ensinar a ler.
+Miguel Morin é um empreendedor social em série com qualificações em informática
+(BS da Ecole Polytechnique, Paris; engenheiro de software no [Instituto
+Alan Turing](https://www.turing.ac.uk/)) e em economia ([doutoramento na
+Universidade de Columbia,
+Nova Iorque](https://econ.columbia.edu/phd/placement/); pós-doc na [Universidade
+de Cambridge, Reino
+Unido](https://www.ineteconomics.org/research/experts/mmorin)). A [tese de
+doutoramento](http://www.columbia.edu/~mm3509/) estudou o desemprego e a
+Grande Depressão. Ele já lançou [Puzzli](https://puzzli.org/), um "brinquedo
+inteligente" com patente em registo, para ensinar crianças a ler.
 
 ## louise
 
-Louise Le Gat é a carga em de visão e estratégia de mídia social. Ela é a
-Fundador e CEO da[Líderes de Energia positiva](https://www.louiselegat.com/)e uma
-parceiro do programa Acelerar 2030, ela trabalha em conjunto com as Nações Unidas
+Louise Le Gat trata da visão e estratégia de redes sociais. Ela é a
+Fundadore e CEO de [Líderes de Energia positiva](https://www.louiselegat.com/) e uma
+parceira do programa Acelerar 2030, ela trabalha em conjunto com as Nações Unidas
 (PNUD) e The Hub Impacto, apoiando empreendedores sociais para escalar sua
 impacto.
 
 ## barbara
 
-Barbara Boelmann é um economista de trabalho aplicada e um estudante de PhD na[Departamento de Economia da University College
-Londres](https://www.ucl.ac.uk/economics/). Ela também é membro do[Centro
+Barbara Boelmann é um economista de trabalho aplicada e um estudante de PhD na [Departamento de Economia da University College
+Londres](https://www.ucl.ac.uk/economics/). Ela também é membro do [Centro
 de Pesquisa e Análise de Migração
 (Creme)](https://www.cream-migration.org/). Barbara já trabalhou com
-a[Centro de Pesquisa de Dados no RWI Essen,
+a [Centro de Pesquisa de Dados no RWI Essen,
 Alemanha](http://en.rwi-essen.de/forschung-und-beratung/fdz-ruhr/). Ela é
 assessoria na implantação de Covoucher20 e responsável pela comunicação com o
 comunidade acadêmica. Barbara obtido um mestrado em Economia e B. A. no
-Sinologia do[Ruhr University Bochum](https://www.ruhr-uni-bochum.de/en).
+Sinologia do [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/en).
 
 ## alison
 
 Alison O inverno é a nossa Comunicação e Marketing Manager. Alison tem mais
-trabalhou recentemente com o canal de Smithsonian,[O Alan Turing
+trabalhou recentemente com o canal de Smithsonian, [O Alan Turing
 Instituto](https://turing.ac.uk), Glaxo Smith Kline (GSK) e da Medicina do
 Agência de Saúde e Reguladora (MHRA) para pesquisar completamente e eficazmente
 comunicar o mais recente em pesquisa e desenvolvimento, levando campanhas de sensibilização
@@ -447,7 +465,7 @@ Kingston University e University of West London.
 
 ## euvsvirus
 
-Nós participaram do[EUvsVirus](https://euvsvirus.org/)hackathon e tem valiosas contribuições de uma equipe dedicada e apaixonada de sete voluntários. Você pode ver os resultados e a equipe[em DevPost](https://devpost.com/software/covoucher20-org).
+Nós participaram do [EUvsVirus](https://euvsvirus.org/)hackathon e tem valiosas contribuições de uma equipe dedicada e apaixonada de sete voluntários. Você pode ver os resultados e a equipe [em DevPost](https://devpost.com/software/covoucher20-org).
 
 # faq
 
@@ -500,15 +518,15 @@ indústria do turismo local. Além disso, muitas iniciativas semelhantes têm um
 ideia semelhante: embora a lista a seguir não é um endosso, decidimos
 enumerá-los aqui empresas de modo locais obter toda a ajuda que puderem.
 
-Suíça:[Heróis locais](https://local-heroes.ch),[Commerçants Soutien aux
+Suíça: [Heróis locais](https://local-heroes.ch), [Commerçants Soutien aux
 de la Riviera](https://soutien-aux-commercants-riviera.ch).
 
-Alemanha:[Gemeinsam da durch](https://helfen.gemeinsamdadurch.de),[Veedels
+Alemanha: [Gemeinsam da durch](https://helfen.gemeinsamdadurch.de), [Veedels
 Retter (Koeln)](https://www.veedelsretter.koeln).
 
-Paraguai, Peru, Uruguai:[Cuando TODO termine](https://cuandotodotermine.com).
+Paraguai, Peru, Uruguai: [Cuando TODO termine](https://cuandotodotermine.com).
 
-EUA:[Care Card Corona](https://www.coronacarecard.com),[Gydo.me](https://gydo.me),[SaveOurFaves](https://saveourfaves.org)e[Apoio Local (EUA Hoje)](https://supportlocal.usatoday.com).
+EUA: [Care Card Corona](https://www.coronacarecard.com), [Gydo.me](https://gydo.me), [SaveOurFaves](https://saveourfaves.org)e [Apoio Local (EUA Hoje)](https://supportlocal.usatoday.com).
 
 ## surviveQ
 
@@ -518,7 +536,7 @@ E se o hotel vendendo o voucher não sobrevive?
 
 No evento infeliz que o hotel vendendo o voucher não
 sobreviver, nós nos comprometemos a encontrar um hotel com classificação semelhante ou superior na
-área. Esta é a mutualização do risco em nossa[Termos e Condições](/policies)para garantir que você ainda pode planejar suas férias e da região que você visita pode
+área. Esta é a mutualização do risco em nossa [Termos e Condições](/policies)para garantir que você ainda pode planejar suas férias e da região que você visita pode
 fornecê-lo com alojamento.
 
 ## diyQ
@@ -538,7 +556,7 @@ Como seguro é a sua plataforma?
 
 ## securityA
 
-Temos parcerias com[Listra](https://stripe.com), Uma empresa líder em financeira
+Temos parcerias com [Stripe](https://stripe.com), Uma empresa líder em financeira
 transações avaliadas em vários bilhões de dólares, para manter o seu financeira
 detalhes. Enviamos Stripe os detalhes da transação, como a quantidade ea
 identificação do hotel local receber os fundos, e da listra pedidos

@@ -27,7 +27,7 @@ def main(target_dir):
 
         pages = contents.split(HEADING1)
 
-        assert "" == pages[0], "first page should be empty"
+        assert "" == pages[0], "first page should be empty: %s, %s" % (fname, pages[0])
         
         for page in pages[1:]:
 
