@@ -23,17 +23,12 @@ stronger: FF8C00.
 
 # Photos
 
-[Bar](https://unsplash.com/photos/94taEmdowRw): Photo by Dogancan Ozturan on Unsplash.
-
 [Café](https://unsplash.com/photos/8PW9y8XQTFg): Photo by Igor Starkov on Unsplash.
 
 [Restaurant by the sea](https://unsplash.com/photos/8PW9y8XQTFg): Photo by Tomas Sobek on Unsplash.
 
 [Restaurant](https://unsplash.com/photos/W3SEyZODn8U): Photo by Priscilla Du
 Preez on Unsplash.
-
-[Hairdresser](https://unsplash.com/photos/PtOfbGkU3uI): Photo by Guilherme Petri
-on Unsplash.
 
 [Spa](https://unsplash.com/photos/cU53ZFBr3lk): Photo by alan caishan on
 Unsplash.
@@ -43,9 +38,32 @@ Unsplash.
 
 [Hotel](https://unsplash.com/photos/bcLE7reXFLM): Photo by Toa Heftiba on Unsplash.
 
-[Guitar](https://unsplash.com/photos/uLitVttkC7o): Photo by Derek Truninger on Unsplash.
-
 [Paragliding](https://unsplash.com/photos/jTP3p3tAF-E): Photo by Tomas Sobek on Unsplash.
 
+Other photos:
 
+https://unsplash.com/photos/_QnPkc4C6E4
 
+https://unsplash.com/photos/EPpPKa29Qe0
+
+https://unsplash.com/photos/jJFFWFvzrN0
+
+https://unsplash.com/photos/hFzIoD0F_i8
+
+https://unsplash.com/photos/mFPJXEQfb9M
+
+https://unsplash.com/photos/Yui5vfKHuzs
+
+https://unsplash.com/photos/U3C79SeHa7k
+
+https://unsplash.com/photos/Q5ZjqF6Wd3k
+
+https://unsplash.com/photos/twukN12EN7c
+
+https://unsplash.com/photos/Yr1SCCRJXIY
+
+https://unsplash.com/photos/sVITXInq_9k
+
+https://unsplash.com/photos/mqN-EV9rNlY
+
+https://unsplash.com/photos/DijA5f0voGQ

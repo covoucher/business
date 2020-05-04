@@ -185,7 +185,7 @@ Hotel manager, tourism officer, ...
 
 ## title
 
-We help local hotels through the pandemic
+We help local tourism through the pandemic
 
 ## subtitle
 
@@ -196,35 +196,35 @@ able to accommodate your stay.
 
 ## image1
 
-Adventure
+Holidays
 
 ## image2
 
-Exploration
+Adventure
 
 ## image3
 
-Community
+Exploration
 
 ## image4
 
-Connection
+Community
 
 ## image5
 
-Travels
+Connection
 
 ## image6
 
-Escapades
+Travels
 
 ## image7
 
-Thrills
+Escapades
 
 ## image8
 
-Novelty
+Relaxation
 
 ## wordFromFounder
 
