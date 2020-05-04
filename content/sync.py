@@ -72,7 +72,7 @@ def main(target_dir):
         # Save to disk
         target_fp = fname.replace(local_dir, target_dir).replace("//", "/").replace(".md", ".json")
         with open(target_fp, "w+") as f:
-            f.write(json.dumps(language_dict))
+            json.dump(language_dict, f, indent=2, separators=(",", ":"))
         print("Wrote to %s" % target_fp)
         
         
