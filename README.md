@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://github.com/covoucher/business/blob/master/logo/logo_small.png">
+  <img src="https://github.com/covoucher/business/blob/master/logo/logo_600x130_website_banner.png">
 </p>
 
 This is the repository for the business side of CoVoucher20. For the technical
-side, see [this repository](https://www.github.com/miguelmorin/covoucher).
+side, see [the private repository](https://www.github.com/covoucher/platform).
 
 # A welcome word
 
 We truly believe that this pandemic is the fight of our lives. If you haven't
-yet, please visit [our website](www.covoucher20.org).
+yet, please visit [our website](https://covoucher20.org).
 
 We are mitigating the economic effects of lockdowns to support local businesses
 and their livelihoods. From the example of the Great Depression, millions of
