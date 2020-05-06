@@ -34,15 +34,14 @@ message contact us at [our website](https://covoucher20.org/contact) including:
 - your CV
 - a track record of your portfolio
 - what is it, deep down, that motivates you
-- "proof of work"
+- "proof of work" and time invested in it
 
 Proof of work ability is the most important element: a hire takes 6 months on
 average---a luxury we don't have---so we decided on this proof of work is a
 taster for what the job will be like in the first few months, which gives
 candidates and us a measure of the fit. We don't require a definite amount of
 time; as guidance, 30 min is probably too little, and 6 hours is probably too
-much (for transparency, please keep track of time and include it in the
-application).
+much. For transparency, we also would like to know how much time you spent on it.
 
 We can't give specific directions on what we want for "proof of work" because
 usually conditions for startups evolve faster than the timelines for publishing
