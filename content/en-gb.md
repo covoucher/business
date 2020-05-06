@@ -456,10 +456,6 @@ We participated in the [EUvsVirus](https://euvsvirus.org/) hackathon and got val
 
 # faq
 
-## faq
-
-Frequently Asked Questions
-
 ## voucherQ
 
 What is a voucher?
@@ -491,30 +487,50 @@ remainder. If the hotel selling the voucher needs to close, we commit to finding
 a hotel with a rating equal or higher that can provide accommodation near that
 area, and we pay the remainder to that hotel.
 
-## originalQ
+## greatDepressionQ
 
-What about the original idea of a voucher that converts to a donation?
+What are the parallels between this crisis and the Great Depression?
 
-## originalA
+## greatDepressionA
 
-We started with the idea of supporting local businesses by letting consumers
-purchase vouchers that converted to a donation in case of bankruptcy. As
-countries are exiting lockdown, that original idea is now less relevant and we
-have adapted to the next challenge, which is the crucial summer months for the
-local tourism industry. Furthermore, many similar initiatives have used a
-similar idea: although the following list is not an endorsement, we decided to
-list them here so local businesses get all the help they can.
+We believe that this crisis is to the tourism industry what the Great Depression
+was to the banking industry. In the 1930s, consumers felt afraid that their
+banks would fails and ran to withdraw their money; banks had to liquidate their
+long-term assets such as real estate to return deposits; when every bank did the
+same, prices collapsed and banks had too little to satisfy all deposits, and so
+they had to file for bankruptcy. Such events are called "bank runs" since then.
 
-Switzerland: [Local Heroes](https://local-heroes.ch), [Soutien aux commerçants
-de la Riviera](https://soutien-aux-commercants-riviera.ch).
+Economists call this phenomennon a "self-fulfilling prophecy": if consumers
+believe that the bank will fail, they act in a way that the prophecy becomes
+true.
 
-Germany: [Gemeinsam da durch](https://helfen.gemeinsamdadurch.de), [Veedels
-Retter (Koeln)](https://www.veedelsretter.koeln).
+Central banks have since learned and practiced the solution for the banking
+sector: deposit insurance guaranteed by the state (and ultimately by future tax
+revenue). The US government established the Federal Deposit Insurance
+Corporation (FDIC) that guarantees all deposits up to a certain amount: with
+that guarantee, consumers do not "run on the bank", and the bank survives. The state
+guarantee works as virtuous self-fulfilling prophecy: the state announces that
+no retail bank will fail, and then no bank does.
 
-Paraguay, Peru, Uruguay: [Cuando todo termine](https://cuandotodotermine.com).
+Central banks in western countries have extremely competent economists who have
+learned well the lessons from economic history and we feel complete confidence
+in the survival of banks and the financial sector. (Full disclosure: the project
+lead applied for a job, had interviews, and has friends at the European Central
+Bank, the Federal Reserve Board, and the Bank of England.)
 
-USA: [Corona Care Card](https://www.coronacarecard.com),
-[Gydo.me](https://gydo.me), [SaveOurFaves](https://saveourfaves.org), and [Support Local (USA Today)](https://supportlocal.usatoday.com).
+We see the same parallels with the tourism industry in 2020: hotels earn 80-90%
+of their annual revenue during the June-September season; consumers feel
+reluctant to make bookings, since they don't know if they will be able to travel
+and which hotels will survive; since hotels have fixed costs that need paying,
+without reservations ahead of the summer season, they may not survive. It's
+again a self-fulfilling prophecy.
+
+We believe that CoVoucher20 and its 100% money-back guarantee can restore
+confidence in the local tourism industry in the same way that deposit insurance
+restored confidence in the banking industry. We are applying the lessons from
+economic history to this sector without needing another painful lesson. We also
+have a mission in the longer term to set up national Tourism Insurance
+Corporations that guarantee the survival of local tourism in each country.
 
 ## surviveQ
 
@@ -526,7 +542,8 @@ In the unfortunate event that the hotel selling you the voucher does not
 survive, we commit to finding a hotel with similar or higher rating in the
 area. This is the mutualization of risk in our [Terms and Conditions](/policies)
 to ensure that you can still plan your holiday and the region you visit can
-provide you with accommodation.
+provide you with accommodation. In the event that no hotel in the region
+survives, we offer the buyer of the voucher a 100% refund.
 
 ## diyQ
 
@@ -617,6 +634,33 @@ Which countries and currencies do you support?
 We currently support the United Kingdom and many countries in the euro area:
 Austria, Belgium, Estonia, Finland, France, Germany, Greece, Ireland, Italy,
 Latvia, Lithuania, Luxembourg, Netherlands, Portugal, Slovakia, Slovenia, and Spain.
+
+## originalQ
+
+What about the original idea of a voucher that converts to a donation?
+
+## originalA
+
+We started with the idea of supporting local businesses by letting consumers
+purchase vouchers that converted to a donation in case of bankruptcy. As
+countries are exiting lockdown, that original idea is now less relevant and we
+have adapted to the next challenge, which is the crucial summer months for the
+local tourism industry. Furthermore, many similar initiatives have used a
+similar idea: although the following list is not an endorsement, we decided to
+list them here so local businesses get all the help they can.
+
+Switzerland: [Local Heroes](https://local-heroes.ch), [Soutien aux commerçants
+de la Riviera](https://soutien-aux-commercants-riviera.ch).
+
+Germany: [Gemeinsam da durch](https://helfen.gemeinsamdadurch.de), [Veedels
+Retter (Koeln)](https://www.veedelsretter.koeln).
+
+Paraguay, Peru, Uruguay: [Cuando todo termine](https://cuandotodotermine.com).
+
+Portugal: [Preserve](www.preserve.pt).
+
+USA: [Corona Care Card](https://www.coronacarecard.com),
+[Gydo.me](https://gydo.me), [SaveOurFaves](https://saveourfaves.org), and [Support Local (USA Today)](https://supportlocal.usatoday.com).
 
 ## feminineQ
 

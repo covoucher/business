@@ -469,10 +469,6 @@ Nós participaram do [EUvsVirus](https://euvsvirus.org/)hackathon e tem valiosas
 
 # faq
 
-## faq
-
-perguntas frequentes
-
 ## voucherQ
 
 O que é um voucher?
@@ -504,40 +500,67 @@ restante. Se o hotel que vendem as necessidades do voucher para fechar, nós nos
 um hotel com uma classificação igual ou superior que pode fornecer alojamento perto desse
 área, e nós pagamos o restante para esse hotel.
 
-## originalQ
+## greatDepressionQ
 
-O que sobre a idéia original de um voucher que se converte em uma doação?
+Quais são os paralelos entre esta crise e a Grande Depressão?
 
-## originalA
+## greatDepressionA
 
-Nós começamos com a idéia de apoiar as empresas locais, permitindo que os consumidores
-comprovantes de compra que convertidos em uma doação em caso de falência. Como
-países estão saindo de bloqueio, que idéia original agora é menos relevante e nós
-adaptaram-se para o próximo desafio, que é nos meses de verão cruciais para o
-indústria do turismo local. Além disso, muitas iniciativas semelhantes têm um usado
-ideia semelhante: embora a lista a seguir não é um endosso, decidimos
-enumerá-los aqui empresas de modo locais obter toda a ajuda que puderem.
+Acreditamos que esta crise é para a indústria do turismo o que a Grande
+Depressão foi para o setor bancário. Nos anos 1930, os consumidores tinham medo
+que os bancos falhassem e correram para levantar o dinheiro; os bancos tiveram que
+liquidar sua activos de longo prazo, como imóveis, para devolver depósitos; quando
+todos os bancos fizeram o mesmo, os preços caíram e os bancos não tinham dinheiro
+para satisfazer todos os depósitos e então fizeram falência. Isto é o que
+chamamos um "bank run" desde essa altura,
+chamamos este fenómeno "bank run"..
 
-Suíça: [Heróis locais](https://local-heroes.ch), [Commerçants Soutien aux
-de la Riviera](https://soutien-aux-commercants-riviera.ch).
+Os economistas chamam esse fenômeno de "profecia auto-realizável": se os
+consumidores acreditam que o banco vai falir, agem de maneira que a profecia se
+torna verdade.
 
-Alemanha: [Gemeinsam da durch](https://helfen.gemeinsamdadurch.de), [Veedels
-Retter (Koeln)](https://www.veedelsretter.koeln).
+Desde então, os bancos centrais aprenderam e praticaram a solução no sector
+bancário: garantia de depósitos pelo estado (e em última instância por impostos
+dos contribuintes no futuro). Portugal tem um Fundo de Garantia de Depósitos
+(FGD) que garante todos os depósitos até um certo valor: com essa garantia, os
+consumidores não "vão a correr para o banco" e o banco sobrevive. A garantia do
+estado funciona como uma profecia virtuosa e auto-realizável: o estado anuncia
+que nenhum banco de retalhe irá à falência, e por isso, nenhum banco vai à
+falência.
 
-Paraguai, Peru, Uruguai: [Cuando TODO termine](https://cuandotodotermine.com).
+Os bancos centrais na Europa e América do Norte têm economistas extremamente
+competentes que conhecem bem as lições da história económica e nós temos total
+confiança na sobrevivência dos bancos e do sector financeiro. (Divulgação
+completa: o líder do projecto candidatou-se a emprego, fez entrevistas e tem
+amigos no Banco Central Europeu, na Reserva Federal Americana, e no Banco da
+Inglaterra.)
 
-EUA: [Care Card Corona](https://www.coronacarecard.com), [Gydo.me](https://gydo.me), [SaveOurFaves](https://saveourfaves.org)e [Apoio Local (EUA Hoje)](https://supportlocal.usatoday.com).
+Vemos os mesmos paralelos com a indústria do turismo em 2020: os hotéis fazem 80
+a 90% de receita anual durante a temporada de junho a setembro; os consumidores
+têm reluctância em fazer reservas, pois não sabem se poderão viajar e quais
+hotéis sobreviverão; como os hotéis têm custos fixos que precisam ser pagos, sem
+reservas antes da temporada de verão, os hóteispodem não sobreviver. Esta é
+novamente uma profecia auto-realizável.
+
+Acreditamos que o CoVoucher20 e sua garantia de reembolso a 100% restauram
+confiança no setor de turismo local, da mesma maneira que a garantia de
+depósitos restaurou a confiança no sector bancário. Estamos a aplicar as lições
+da história económica a este sector sem precisar de mais uma lição
+dolorosa. Também temos a missão a mais longo prazo de criar Fundos de Garantia
+do Turismo nacionais que garantem a sobrevivência do turismo local em cada país.
 
 ## surviveQ
 
-E se o hotel vendendo o voucher não sobrevive?
+E se o hotel que vende o voucher não sobreviver?
 
 ## surviveA
 
-No evento infeliz que o hotel vendendo o voucher não
-sobreviver, nós nos comprometemos a encontrar um hotel com classificação semelhante ou superior na
-área. Esta é a mutualização do risco em nossa [Termos e Condições](/policies)para garantir que você ainda pode planejar suas férias e da região que você visita pode
-fornecê-lo com alojamento.
+No caso do hotel que vende o voucher não sobreviver, nós comprometemo-nos a
+encontrar um hotel com classificação semelhante ou superior na mesma área. Esta
+é a mutualização do risco nos nossos [Termos e Condições](/policies) para
+garantir que você pode planear as férias e a região que visita pode dar-lhe
+alojamento. No caso de nenhum hotel na região sobreviver, nós oferecemos um
+reembolso a 100%.
 
 ## diyQ
 
@@ -628,6 +651,30 @@ Quais são os países e moedas você torce?
 Atualmente suportamos o Reino Unido e muitos países da área do euro:
 Áustria, Bélgica, Estónia, Finlândia, França, Alemanha, Grécia, Irlanda, Itália,
 Letónia, Lituânia, Luxemburgo, Países Baixos, Portugal, Eslováquia, Eslovénia e Espanha.
+
+## originalQ
+
+O que sobre a idéia original de um voucher que se converte em uma doação?
+
+## originalA
+
+Nós começamos com a idéia de apoiar as empresas locais, permitindo que os consumidores
+comprovantes de compra que convertidos em uma doação em caso de falência. Como
+países estão saindo de bloqueio, que idéia original agora é menos relevante e nós
+adaptaram-se para o próximo desafio, que é nos meses de verão cruciais para o
+indústria do turismo local. Além disso, muitas iniciativas semelhantes têm um usado
+ideia semelhante: embora a lista a seguir não é um endosso, decidimos
+enumerá-los aqui empresas de modo locais obter toda a ajuda que puderem.
+
+Suíça: [Heróis locais](https://local-heroes.ch), [Commerçants Soutien aux
+de la Riviera](https://soutien-aux-commercants-riviera.ch).
+
+Alemanha: [Gemeinsam da durch](https://helfen.gemeinsamdadurch.de), [Veedels
+Retter (Koeln)](https://www.veedelsretter.koeln).
+
+Paraguai, Peru, Uruguai: [Cuando TODO termine](https://cuandotodotermine.com).
+
+EUA: [Care Card Corona](https://www.coronacarecard.com), [Gydo.me](https://gydo.me), [SaveOurFaves](https://saveourfaves.org)e [Apoio Local (EUA Hoje)](https://supportlocal.usatoday.com).
 
 ## feminineQ
 
