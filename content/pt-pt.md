@@ -86,7 +86,7 @@ Finalizar
 
 ## organization
 
-Hotel
+Empresa
 
 ## name
 
@@ -122,7 +122,7 @@ Como você ficou sabendo sobre nós?
 
 ## localHotels
 
-De hotéis locais
+De empresas locais
 
 ## chamberOfCommerce
 
@@ -182,7 +182,7 @@ Trabalho
 
 ## jobPlaceholder
 
-Gerente do hotel, chefe do posto de turismo, ...
+Gerente, chefe do posto de turismo, ...
 
 # home
 
@@ -193,10 +193,10 @@ Ajudamos o turismo local durante a pandemia
 ## subtitle
 
 CoVoucher20 é uma plataforma para os consumidores planearem as férias plano e
-para os hóteis locais sobreviverem durante a pandemia. Qualquer pessoa pode
-planear as suas férias agora para escapar da confinamento, e nós mutualizamos o
-risco de falência dos hóteis e garantimos que um hotel será capaz de lhe dar
-dormida para as suas férias.
+para as empresas de turismo local sobreviverem durante a pandemia. Qualquer
+pessoa pode planear as suas férias agora para escapar da confinamento, e nós
+mutualizamos o risco de falência das empresas e garantimos que alguma empresa na
+região será capaz de lhe dar a experiência que antecipou.
 
 ## image1
 
@@ -240,7 +240,7 @@ Olá!
 
 O meu nome é Miguel Morin e eu sou o fundador da CoVoucher20. Quando os países
 começaram o estado de emergência, eu sabia que uma crise deste tamanho podia significar o fim de
-milhões de hotéis locais. Usei a minha experiência em "software" e
+milhões de empresas de turismo local. Usei a minha experiência em "software" e
 a minha recente paixão em empreendedorismo para lançar CoVoucher20 em tempo
 record. [Leia a nossa história](/about#story).
 
@@ -250,7 +250,7 @@ Como funciona
 
 ## how1
 
-Postos de turismo, organizações de gestão de destinos, e hotéis locais descrevem
+Postos de turismo, organizações de gestão de destinos, e empresas de turismo local descrevem
 a sua oferta.
 
 ## how2
@@ -259,15 +259,15 @@ Nós promovemos a região local na nossa página para os consumidores.
 
 ## how3
 
-Os consumidores pesquisam hotéis e compram vouchers para utilizarem depois da pandemia.
+Os consumidores pesquisam experiências e compram vouchers para utilizarem depois da pandemia.
 
 ## how4
 
-Os hotéis recebem uma garantia do dinheiro imediatamente e são mais capazes de sobreviver.
+As empresas recebem uma garantia do dinheiro imediatamente e são mais capazes de sobreviver.
 
 ## howSave
 
-O CoVoucher20 pode realmente salvar um hotel local?
+O CoVoucher20 pode realmente salvar uma empresa de turismo local?
 
 ## howSaveText
 
@@ -281,8 +281,9 @@ Gosta do que vê?
 
 ## likeText
 
-CoVoucher20 trabalha para hotéis em todos os países da zona euro, e para os
-consumidores em todo o mundo. O registo de hóteis e compra de vouchers é apenas por convite.
+CoVoucher20 funciona para empresas de turismo local em todos os países da zona
+euro, e para turistas no mundo inteiro. O registo de empresas e compra de
+vouchers é apenas por convite.
 
 # 404
 
@@ -320,17 +321,21 @@ O desafio
 
 ## challengeText
 
-A pandemia COVID-19 provocou perdas econômicas significativas. proprietários do hotel locais enfrentam uma ameaça existencial. Eles podem ser incapazes de pagar pessoal, contas de serviços públicos, ou mesmo a sua aluguel e hipotecas. Para proprietários e sua equipe, é essencial para manter suas casas seguras, garantindo a segurança pessoal e evitar a exposição ao vírus e mais impacto econômico.
+A pandemia COVID-19 provocou perdas económicas significativas. As empresas de
+turismo lcoal enfrentam uma ameaça existencial. Podem ser incapazes de pagar
+salários, facturas, ou mesmo renda e empréstimos. Para proprietários e
+empregados, é essencial garantir abrigo em casas e segurança pessoal, e evitar a
+exposição ao vírus e um impacto económico ainda maior.
 
-Generosidade através do turismo é a resposta. As pessoas podem apoiar hotéis locais
-todo e além das lockdowns pandemia. As finanças do turismo local
-áreas que pretende visitar pode dar um mergulho, mas não vai falhar completamente. Nós queremos
-para vê-los no outro lado desta emergência, e eles querem ver você.
+Generosidade através do turismo é a resposta. As pessoas podem apoiar empresas
+de turismo local durante a pandemia. As finanças das regiões de turismo local
+que pretende visitar podem baixar, mas não vão falhar completamente. Nós queremos
+que as empresas continuem presentes do outro lado desta emergência, e as
+empresas querem ver os seus clientes.
 
-Podemos evitar um acidente em nossas comunidades, mantendo o dinheiro fluindo e ajudando
-empresas se adaptar e sobreviver. CoVoucher20 fornece uma plataforma confiável para
-empresas que precisam de suporte digital ou financeiro seguro e responsável
-transações.
+Podemos evitar um acidente nas nossas comunidades, mantendo o dinheiro fluindo e ajudando
+as empresas a adaptar e sobreviver. CoVoucher20 fornece uma plataforma fiável para
+empresas que precisam de suporte digital ou financeiro seguro e responsável.
 
 ## vision
 
@@ -338,7 +343,10 @@ A nossa visão
 
 ## visionText
 
-Nós prevemos que os hotéis locais irão sobreviver através da pandemia e têm ligações mais fortes com seus clientes; que os consumidores rapidamente será capaz de retomar uma vida normal com os hotéis locais que mais ama; e que todos nós sair desta crise com mais gratidão e conexões sociais mais fortes.
+Nós prevemos que as empresas de turismo local sobrevivam durante a pandemia e
+tenham ligações mais fortes com os seus clientes; que os consumidores
+rapidamente sejam capazes de retomar uma vida normal com as experiências de
+férias de que mais gostam; e que todos nós saiamos desta crise com mais gratidão e ligações sociais mais fortes.
 
 ## story
 
@@ -350,7 +358,7 @@ Durante a Grande Depressão nos Estados Unidos, a incerteza em torno da economia
 
 É essencial que a circulação de dinheiro não é cortado. Por isso, criámos uma plataforma para ajudar o dinheiro continuar fluindo.
 
-Qualquer um pode comprar vouchers hoje para apoiar os seus hotéis locais, que por sua vez significa que a empresa pode pagar seus funcionários, que por sua vez pode continuar a pagar suas hipotecas e comprar o que eles precisam, apesar de ter sido isolado em casa e incapaz de trabalho. Estamos todos fazendo a nossa parte para diminuir a propagação do vírus - e agora há uma oportunidade para manter as empresas à tona. Nós podemos estar lá para eles hoje, então eles podem estar lá para nós amanhã.
+Qualquer um pode comprar vouchers hoje para apoiar as suas empresas de turismo local, que por sua vez significa que a empresa pode pagar seus funcionários, que por sua vez pode continuar a pagar suas hipotecas e comprar o que eles precisam, apesar de ter sido isolado em casa e incapaz de trabalho. Estamos todos fazendo a nossa parte para diminuir a propagação do vírus - e agora há uma oportunidade para manter as empresas à tona. Nós podemos estar lá para eles hoje, então eles podem estar lá para nós amanhã.
 
 Somos uma equipe de pessoas apaixonadas e qualificados. Projeto Chumbo Miguel
 Morin estudou e trabalhou nas universidades de topo do mundo, com uma Ciência
@@ -477,7 +485,7 @@ O que é um voucher?
 
 Um voucher é um certificado que lhe dá direito a um produto ou serviço. Para
 exemplo, se você trocar uma nota de 100 euros para um certificado dizendo que "vale a pena vale
-100 euros no hotel", então você pode pagar por uma estadia em que hotel com o
+100 euros na empresa", então você pode pagar por uma experiência com a empresa com o
 certificado.
 
 ## covoucherQ
@@ -486,19 +494,14 @@ O que é um covoucher? O que é mutualização do risco?
 
 ## covoucherA
 
-A pandemia tem colocado pressão sobre hotéis locais e os consumidores estão relutantes em
-correr o risco de hotéis reserva. A essência da CoVoucher20 é a mutualização
-desse risco: mesmo que um hotel necessidades para fechar, um outro hotel por pode fechar
-cumprir o voucher. Para ajudar com as finanças hotel durante a pandemia, nós pagamos o
-parte do lucro marginal directamente para o hotel vendendo o voucher, outra parte
-ao regime de seguro de falência dos hotéis, e mantenha o restante em um depósito
-conta. (Se o hotel não tem seguro de falência, temos o todo
-ascender em uma conta bloqueada eo hotel pode usar as demonstrações financeiras que
-emitir para garantir uma linha de crédito do seu banco). Quando as extremidades de bloqueio,
-os consumidores podem converter o covoucher em uma reserva e não pagar essa
-restante. Se o hotel que vendem as necessidades do voucher para fechar, nós nos comprometemos a constatação
-um hotel com uma classificação igual ou superior que pode fornecer alojamento perto desse
-área, e nós pagamos o restante para esse hotel.
+A pandemia colocou grande pressão sobre empresas de turismo local e os
+consumidores estão relutantes em correr o risco de falência das empresas. A
+essência da CoVoucher20 é a mutualização desse risco: mesmo que uma empresas
+precise de fechar, uma outra empresa ainda aberta converter o voucher e oferecer
+a experiência. Quando o turismo reabrir, os consumidores podem converter o
+covoucher em reserva e nós pagamos a empresa. Se a empresa que vendeu o voucher
+precisar de fechar, nós nos comprometemos a encontrar uma experiência semelhante
+na mesma área.
 
 ## greatDepressionQ
 
@@ -535,11 +538,12 @@ completa: o líder do projecto candidatou-se a emprego, fez entrevistas e tem
 amigos no Banco Central Europeu, na Reserva Federal Americana, e no Banco da
 Inglaterra.)
 
-Vemos os mesmos paralelos com a indústria do turismo em 2020: os hotéis fazem 80
+Vemos os mesmos paralelos com a indústria do turismo em 2020: as empresas de
+turismo local fazem 80
 a 90% de receita anual durante a temporada de junho a setembro; os consumidores
 têm reluctância em fazer reservas, pois não sabem se poderão viajar e quais
-hotéis sobreviverão; como os hotéis têm custos fixos que precisam ser pagos, sem
-reservas antes da temporada de verão, os hóteispodem não sobreviver. Esta é
+empresas sobreviverão; como as empresas têm custos fixos que precisam ser pagos, sem
+reservas antes da temporada de verão, as empresas podem não sobreviver. Esta é
 novamente uma profecia auto-realizável.
 
 Acreditamos que o CoVoucher20 e sua garantia de reembolso a 100% restauram
@@ -551,41 +555,37 @@ do Turismo nacionais que garantem a sobrevivência do turismo local em cada paí
 
 ## surviveQ
 
-E se o hotel que vende o voucher não sobreviver?
+E se a empresa que vende o voucher não sobreviver?
 
 ## surviveA
 
-No caso do hotel que vende o voucher não sobreviver, nós comprometemo-nos a
-encontrar um hotel com classificação semelhante ou superior na mesma área. Esta
+No caso da empresa que vende o voucher não sobreviver, nós comprometemo-nos a
+encontrar uma empresa com experiências semelhantes na mesma área. Esta
 é a mutualização do risco nos nossos [Termos e Condições](/policies) para
 garantir que você pode planear as férias e a região que visita pode dar-lhe
-alojamento. No caso de nenhum hotel na região sobreviver, nós oferecemos um
+alojamento. No caso de nenhuma empresa na região sobreviver, nós oferecemos um
 reembolso a 100%.
 
 ## diyQ
 
-Por que não comprar diretamente dos hotéis locais?
+Por que não comprar diretamente às empresas locais?
 
 ## diyA
 
-Nós encorajamos você a fazê-lo se você pode, como é que a melhor maneira de apoiar hotéis
-e turismo local. CoVoucher20 é realmente concebido para mutualize a incerteza
-falência em torno dos hotéis locais, fornecendo consumidores com 100% de devolução do dinheiro
-garantia e hotéis com informações valiosas sobre futuras reservas.
+Nós encorajamos você a fazê-lo se você pode, porque é a melhor maneira de apoiar 
+o turismo local. CoVoucher20 é realmente concebido para mutualize a incerteza
+falência em torno das empresas de turismo local, fornecendo consumidores com 100% de devolução do dinheiro
+garantia e empresas com informações valiosas sobre futuras reservas.
 
 ## securityQ
 
-Como seguro é a sua plataforma?
+Quão segura é a sua plataforma?
 
 ## securityA
 
 Temos parcerias com [Stripe](https://stripe.com), Uma empresa líder em financeira
 transações avaliadas em vários bilhões de dólares, para manter o seu financeira
-detalhes. Enviamos Stripe os detalhes da transação, como a quantidade ea
-identificação do hotel local receber os fundos, e da listra pedidos
-informações de pagamento diretamente do consumidor e processa o pagamento em nosso
-nome e divide o pagamento em maior parte do montante diretamente para o local,
-hotel e uma pequena taxa para nós. Nós nunca realizar o seu cartão de débito ou conta bancária
+detalhes. Nós nunca ficamos com o seu cartão de débito ou conta bancária
 informações em nossos servidores. Além de pagamentos, usamos padrão da indústria
 procedimentos para a segurança da informação: HTTPS para criptografia end-to-end de
 comunicação na internet, seguro e up-to-date servidores, senhas de usuários
@@ -597,9 +597,10 @@ O que é modelo de negócios da CoVoucher20?
 
 ## businessA
 
-Nós somos uma empresa social e não-para-covid fins lucrativos. Nós intermediária entre
-hotéis locais e seus patronos e cobrar uma pequena taxa para cobrir a nossa corrida
-custos, de modo que as empresas recebem o máximo possível para sobreviver em meio à crise.
+Nós somos uma empresa social e não-para-covid fins lucrativos. Nós intermediamos
+entre empresas de turismo local e os seus clientes e cobramos uma pequena
+comissão para cobrir os nossos custos, de modo que as empresas recebem o máximo
+possível para sobreviver à crise.
 
 ## feesQ
 
@@ -612,16 +613,16 @@ transações, pessoal).
 
 ## saveQ
 
-CoVoucher20 pode realmente salvar um hotel local?
+CoVoucher20 pode realmente salvar uma empresa de turismo local?
 
 ## saveA1
 
-hotéis locais que beneficiam o máximo de CoVoucher20 são aqueles com substancial
+As empresas de turismo local que beneficiam o máximo de CoVoucher20 são aqueles com substancial
 custos fixos e com bastante lucro no futuro.
 
-Considere o seguinte exemplo onde um hotel começou em dezembro de 2019,
+Considere o seguinte exemplo onde uma empresa de turismo local começou em dezembro de 2019,
 geralmente tem 100k da renda per 3 meses, com 30k para pagar aluguel e serviços públicos, e
-40k para os funcionários pagos. Suponha que o hotel pode reduzir os custos variáveis ​​para 20k
+40k para os funcionários pagos. Suponha que a empresa pode reduzir os custos variáveis ​​para 20k
 (Por exemplo, a equipe decidir tomar um corte de pagamento, em vez de ser demitido). Sem ajuda
 tudo, a conta bancária do negócio será no vermelho durante a crise eo banco
 pode fechar o negócio.
@@ -633,10 +634,11 @@ Com CoVoucher20, o negócio pode trazer 30k frente de renda após a crise para c
 ## saveA3
 
 Se o negócio corre o risco de um empréstimo do seu banco, o resultado final seria
-o mesmo: 10k na em outubro de 2020. No entanto, os hotéis mais locais não têm essa
-luxo ou não pode correr esse risco. Com CoVoucher20, você pode salvar um hotel local.
+o mesmo: 10k na em outubro de 2020. No entanto, as empresas de turismo local não têm esse
+luxo ou não pode correr esse risco. Com CoVoucher20, você pode salvar uma
+empresa de turismo local.
 
-Na economia linguagem, CoVoucher20 permite às empresas pedir emprestado contra a sua
+Em linguagem económica, o CoVoucher20 permite às empresas pedir emprestado contra a sua
 renda futura e trade off seu futuro lucro marginal para cobrir seu
 apresentam custos fixos. (Nós ignorado as taxas de juros, taxas e quantidades modestas de
 inflação e deflação para manter este exemplo simples; o resultado principal com tais
@@ -763,7 +765,7 @@ Obter acesso antecipado
 ## requestText
 
 CoVoucher20 funciona apenas por convite para agora. Se você acredita que seu turismo local
-área ou o seu hotel iria beneficiar de CoVoucher20, por favor use o formulário abaixo
+ou a sua empresa poderia beneficiar de CoVoucher20, por favor use o formulário abaixo
 com o seu e-mail de trabalho e nós entraremos em contato.
 
 ## requestAccess
