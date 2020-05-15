@@ -360,11 +360,12 @@ Durante a Grande Depressão nos Estados Unidos, a incerteza em torno da economia
 
 Qualquer um pode comprar vouchers hoje para apoiar as suas empresas de turismo local, que por sua vez significa que a empresa pode pagar seus funcionários, que por sua vez pode continuar a pagar suas hipotecas e comprar o que eles precisam, apesar de ter sido isolado em casa e incapaz de trabalho. Estamos todos fazendo a nossa parte para diminuir a propagação do vírus - e agora há uma oportunidade para manter as empresas à tona. Nós podemos estar lá para eles hoje, então eles podem estar lá para nós amanhã.
 
-Somos uma equipe de pessoas apaixonadas e qualificados. Projeto Chumbo Miguel
-Morin estudou e trabalhou nas universidades de topo do mundo, com uma Ciência
-Licenciatura da Computação[Ecole
-Polytechnique](https://polytechnique.fr)(Paris), um PhD em economia na Grande
-Depressão da [Universidade de Columbia](https://columbia.edu) (Nova Iorque), um
+Somos uma equipa de pessoas apaixonadas e qualificados. Projeto Chumbo Miguel
+Morin estudou e trabalhou nas universidades de topo do mundo, com uma
+Licenciatura em Informática na [Ecole
+Polytechnique](https://polytechnique.fr)(Paris), um doutoramento em economia
+sobre a Grande
+Depressão na [Universidade de Columbia](https://columbia.edu) (Nova Iorque), um
 pós-doc em Economia da [Universidade de Cambridge](https://www.cam.ac.uk) (Reino
 Unido), e um pós-doc em inteligência artificial no [Instituto Alan Turing](https://turing.ac.uk).
 
